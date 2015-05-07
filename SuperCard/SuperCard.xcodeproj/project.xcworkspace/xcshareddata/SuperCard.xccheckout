@@ -7,14 +7,14 @@
 	<key>IDESourceControlProjectIdentifier</key>
 	<string>F79FC62C-99F5-4DB0-9986-F1642277E13F</string>
 	<key>IDESourceControlProjectName</key>
-	<string>SuperCard</string>
+	<string>project</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
 		<key>A32D9C3C051686A5708B359BF05A55E17C293A01</key>
 		<string>https://github.com/alphaqcode/cs193p.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>SuperCard/SuperCard.xcodeproj</string>
+	<string>SuperCard/SuperCard.xcodeproj/project.xcworkspace</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>A32D9C3C051686A5708B359BF05A55E17C293A01</key>
